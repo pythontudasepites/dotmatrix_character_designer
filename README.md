@@ -16,6 +16,7 @@ A műveletekről a szerkesztőrács feletti üzenetsorban visszajelzést kapunk,
 
 Az alkalmazás felületének képernyőképe:
 
+<img src="https://github.com/pythontudasepites/dotmatrix_character_designer/blob/main/seven_segment_digits_screenshots_github.jpg" width="720" height="420">
 
 A _dotmatrixstring_widget_ modulban található _DotMatrixString_ osztály egy példánya az inicializáláskor a _string_to_display_ paraméternek átadott karakterláncot pontmátrix formában jeleníti meg egy Frame objektumon úgy, hogy az egyes karakterek egymást követően lehelyezett Canvas elemeken vannak kirajolva.
 
@@ -26,3 +27,5 @@ Az inicializáláskor az _fg_ és _bg_ opcionális argumentumokkal megadható a 
 A karakterek alapértelmezésben a beolvasott pontmátrix leíró fájlban szereplő sor- és oszlopszám szerinti pixel méretben jelennek meg (pl. 5x12 pixel), de ennek egész számú többszörösére nagyíthatók a scale_factor beállításával.
 
 Az alábbi kép a modulban látható tesztsorok eredményét mutatja:
+
+<img src="https://github.com/pythontudasepites/dotmatrix_character_designer/blob/main/seven_segment_digits_screenshots_github.jpg" width="720" height="420">
