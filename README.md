@@ -28,4 +28,4 @@ A karakterek alapértelmezésben a beolvasott pontmátrix leíró fájlban szere
 
 Az alábbi kép a modulban látható tesztsorok eredményét mutatja:
 
-<img src="https://github.com/pythontudasepites/dotmatrix_character_designer/blob/main/seven_segment_digits_screenshots_github.jpg" width="720" height="420">
+<img src="https://github.com/pythontudasepites/dotmatrix_character_designer/blob/main/dotmxchar_widget_application.png" width="720" height="420">
