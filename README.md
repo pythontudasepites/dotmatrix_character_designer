@@ -1,4 +1,4 @@
-# Pontmátrix formában megjelenő karakterek tervezésére és megjelenítésére szolgáló alkalmazás
+# Pontmátrix karakterek tervezésére és megjelenítésére szolgáló alkalmazás
 
 A _designer_ modul _DotMatrixCharDesigner_ osztályának példánya pontmárix formában megjelenő karakterek tervezését lehetővé tevő alkalmazás.
 
