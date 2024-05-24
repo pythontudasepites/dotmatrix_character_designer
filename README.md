@@ -1,4 +1,4 @@
-# Pontmátrix formában megjelenő karakterek tervezésére szolgáló alkalmazás
+# Pontmátrix formában megjelenő karakterek tervezésére és megjelenítésére szolgáló alkalmazás
 
 A _designer_ modul _DotMatrixCharDesigner_ osztályának példánya pontmárix formában megjelenő karakterek tervezését lehetővé tevő alkalmazás.
 
@@ -29,3 +29,6 @@ A karakterek alapértelmezésben a beolvasott pontmátrix leíró fájlban szere
 Az alábbi kép a modulban látható tesztsorok eredményét mutatja:
 
 <img src="https://github.com/pythontudasepites/dotmatrix_character_designer/blob/main/dotmxchar_widget_application.png" width="720" height="125">
+
+
+Az alkalmazás működéséhez Python 3.10+ verzió szükséges.
