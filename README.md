@@ -1,5 +1,8 @@
 # Pontmátrix karakterek tervezésére és megjelenítésére szolgáló alkalmazás
 
+Ha a grafikus felhasználói felületen megjelenő bizonyos szövegeket figyelemfelkeltővé vagy a szokásostól eltérő kinézetűvé akarjuk tenni, akkor ennek egy módja lehet, hogy a szöveget pontmátrix karakterekkel jelenítjük meg.
+A pontmátrix karakter olyan szimbólumot jelent, amely kétdimenziós rácsba rendezett pontok mintázataként jelenik meg.
+
 A _designer_ modul _DotMatrixCharDesigner_ osztályának példánya pontmárix formában megjelenő karakterek tervezését lehetővé tevő alkalmazás.
 
 Az osztály példányosításakor meg kell adni egy fájlt a _charset_filepath_ paraméternek, amelybe a megtervezett karakterek és pontmátrix leírásuk kerül JSON objektumként. Ha a megadott fájl egy létező pontmátrixleíró JSON fájl, akkor ennek tartalma beolvasásra kerül feltéve, hogy az nincs ellentmondásban a tervezendő pontmátrix sor- és/vagy oszlopméretével, amelyet a _rowcount_ és _columncount_ argumentumokkal lehet meghatározni.
