@@ -1,6 +1,6 @@
 # Pontmátrix karakterek tervezésére és megjelenítésére szolgáló alkalmazás
 
-Ha a grafikus felhasználói felületen megjelenő bizonyos szövegeket figyelemfelkeltővé vagy a szokásostól eltérő kinézetűvé akarjuk tenni, akkor ennek egy módja lehet, hogy a szöveget pontmátrix karakterekkel jelenítjük meg.
+Ha a grafikus felhasználói felületen megjelenő bizonyos szövegeket figyelemfelkeltővé vagy a szokásostól eltérő kinézetűvé akarjuk tenni, akkor ennek egy módja lehet, hogy a szöveget pontmátrix karakterekkel jelenítjük meg.  
 A pontmátrix karakter olyan szimbólumot jelent, amely kétdimenziós rácsba rendezett pontok mintázataként jelenik meg.
 
 A _designer_ modul _DotMatrixCharDesigner_ osztályának példánya pontmárix formában megjelenő karakterek tervezését lehetővé tevő alkalmazás.
